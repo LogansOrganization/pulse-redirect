@@ -7,3 +7,7 @@ so any path forwards.
 `.well-known/assetlinks.json` is the app-links file for `com.solarsky.pulse` (same as the one on
 loganchobson.github.io). Android fetches it from this host to let shared daily links open the app,
 so it has to be served here directly, not redirected. `.nojekyll` makes Pages serve dot-folders.
+
+`privacy/index.html` is the privacy policy linked from the Play Store listing, served here directly
+so the listing doesn't depend on a redirect. It's a copy of `site/pulse/privacy/index.html` in the
+game repo; copy it again after changing it there.
