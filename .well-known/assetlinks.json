@@ -1,0 +1,14 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.solarsky.pulse",
+      "sha256_cert_fingerprints": [
+        "CE:E8:18:75:91:62:CF:CA:22:5B:8E:3C:23:50:06:E8:2E:4B:28:D9:E2:78:00:07:17:8F:B0:C6:1A:FE:24:AD",
+        "77:D8:49:F4:BC:27:BB:52:FD:EF:99:63:77:3E:11:42:17:92:32:39:AF:22:5D:67:02:66:C7:FB:C0:05:85:23",
+        "77:8F:53:B7:30:B9:6A:AA:55:95:0E:11:6C:3F:69:5E:68:D1:84:11:6B:06:19:55:6C:E6:28:16:FA:7E:15:BE"
+      ]
+    }
+  }
+]
